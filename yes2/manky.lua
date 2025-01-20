@@ -1,0 +1,1 @@
+Mnakysok = 200

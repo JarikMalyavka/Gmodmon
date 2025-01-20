@@ -4,4 +4,4 @@ if Manky == "Соси хуй"
     print("Ты пидор")
 else
     print("Сосал?")
-end
+endddddd
